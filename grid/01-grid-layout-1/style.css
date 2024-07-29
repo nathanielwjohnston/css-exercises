@@ -10,7 +10,7 @@ html {
   padding: 16px;
   box-sizing: border-box;
   display: grid;
-  grid-template: 100px 100px 500px 100px / 220px 660px;
+  grid-template: 150px 150px 750px 150px / 330px 990px;
   gap: 15px;
 }
 
