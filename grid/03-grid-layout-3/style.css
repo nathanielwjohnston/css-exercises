@@ -84,6 +84,11 @@
   text-transform: uppercase;
 }
 
+.nav ul {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
 .article {
   background-color: #bccbde;
   grid-column: span 2;
