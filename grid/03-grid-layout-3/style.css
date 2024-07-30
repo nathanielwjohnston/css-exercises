@@ -26,6 +26,7 @@
   grid-row: 1;
   display: grid;
   grid-template-columns: 2fr 5fr;
+  align-items: center;
 }
 
 .header .logo {
