@@ -49,6 +49,8 @@
   font-size: 12px;
   font-weight: normal;
   border-radius: 10px;
+  display: grid;
+  place-content: center;
 }
 
 
@@ -57,6 +59,8 @@
   color: black;
   font-size: 16px;
   font-weight: normal;
+  display: grid;
+  place-content: center;
 }
 
 .nav {
